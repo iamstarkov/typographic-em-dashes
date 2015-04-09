@@ -23,7 +23,9 @@ npm install --save typographic-em-dashes
 ```js
 var emdashes = require('typographic-em-dashes');
 
-emdashes(`Kurt Cobain (1967-1994)`); // Kurt Cobain (1967–1994)
+emdashes(`--`); // —
+emdashes(`foo -- bar`); // foo — bar
+emdashes(`foo — bar`); // foo — bar
 ```
 
 
