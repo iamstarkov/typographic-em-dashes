@@ -28,17 +28,9 @@ emdashes(`foo -- bar`); // foo — bar
 emdashes(`foo — bar`); // foo — bar
 ```
 
-
-## Real world examples
-
-Check complex usage with real world examples in [typography playground][playground].
-
-[playground]: https://github.com/matmuchrapna/typographic-playground
-
-
 ## License
 
-MIT © [Vladimir Starkov](http://vstarkov.com/)
+MIT © [Vladimir Starkov](https://iamstarkov.com/)
 
 [rtfm]: http://practicaltypography.com/hyphens-and-dashes.html
 [habits]: http://practicaltypography.com/typewriter-habits.html
@@ -46,14 +38,14 @@ MIT © [Vladimir Starkov](http://vstarkov.com/)
 [npm-url]: https://npmjs.org/package/typographic-em-dashes
 [npm-image]: http://img.shields.io/npm/v/typographic-em-dashes.svg
 
-[travis-url]: https://travis-ci.org/matmuchrapna/typographic-em-dashes
-[travis-image]: http://img.shields.io/travis/matmuchrapna/typographic-em-dashes.svg
+[travis-url]: https://travis-ci.org/iamstarkov/typographic-em-dashes
+[travis-image]: http://img.shields.io/travis/iamstarkov/typographic-em-dashes.svg
 
-[coveralls-url]: https://coveralls.io/r/matmuchrapna/typographic-em-dashes
-[coveralls-image]: http://img.shields.io/coveralls/matmuchrapna/typographic-em-dashes.svg
+[coveralls-url]: https://coveralls.io/r/iamstarkov/typographic-em-dashes
+[coveralls-image]: http://img.shields.io/coveralls/iamstarkov/typographic-em-dashes.svg
 
-[depstat-url]: https://david-dm.org/matmuchrapna/typographic-em-dashes
-[depstat-image]: https://david-dm.org/matmuchrapna/typographic-em-dashes.svg
+[depstat-url]: https://david-dm.org/iamstarkov/typographic-em-dashes
+[depstat-image]: https://david-dm.org/iamstarkov/typographic-em-dashes.svg
 
-[depstat-dev-url]: https://david-dm.org/matmuchrapna/typographic-em-dashes
-[depstat-dev-image]: https://david-dm.org/matmuchrapna/typographic-em-dashes/dev-status.svg
+[depstat-dev-url]: https://david-dm.org/iamstarkov/typographic-em-dashes
+[depstat-dev-image]: https://david-dm.org/iamstarkov/typographic-em-dashes/dev-status.svg
